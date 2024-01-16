@@ -1,22 +1,23 @@
 {
-"manifest_version": 3,
-"name": "Course Code Extension",
-"version": "1.0",
-"permissions": ["storage", "activeTab", "<all_urls>", "scripting"],
-"background": {
-    "service_worker": "background.js"
-},
-"content_scripts": [
-    {
-        "matches": [
-            "https://artsci.calendar.utoronto.ca/course/",
-            "https://utm.calendar.utoronto.ca/course/",
-            "https://utsc.calendar.utoronto.ca/course/"],
-        "js": ["contentSite1.js"]
+    "manifest_version": 3,
+    "name": "Course Code Extension",
+    "version": "1.0",
+    "permissions": ["storage", "activeTab", "<all_urls>", "scripting"],
+    "background": {
+        "service_worker": "background.js"
     },
+    "content_scripts": [
         {
-        "matches": ["https://uoftcourses.web.app"],
-        "js": ["contentSite2.js"]
+            "matches": [
+                "https://artsci.calendar.utoronto.ca/course/*",
+                "https://utm.calendar.utoronto.ca/course/*",
+                "https://utsc.calendar.utoronto.ca/course/*"
+            ],
+            "js": ["contentSite1.js"]
+        },
+        {
+            "matches": ["https://uoftcourses.web.app/*"],
+            "js": ["contentSite2.js"]
         }
-]
+    ]
 }
