@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Extract the full text from the element
         var fullText = titleElement.innerText.trim();
         // Define the regular expression pattern for the course code
-        var courseCodePattern = /[A-Z]{3}\d{3}[A-Z]\d/;
+        var courseCodePattern = /([A-Z]{3}\d{3}[A-Z]\d)|([A-Z]{4}\d{2}[A-Z]\d)/;
         // Attempt to match the pattern with the full text
         var courseCodeMatch = fullText.match(courseCodePattern);
         // If a match is found, log the first match (the course code)
@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', function() {
 // var titleElement = document.querySelector('.page-title');
 //     if (titleElement) {
 //         var fullText = titleElement.innerText.trim();
-//         var courseCodePattern = /[A-Z]{3}\d{3}[A-Z]\d/;
+//         var courseCodePattern = /([A-Z]{3}\d{3}[A-Z]\d)|([A-Z]{4}\d{2}[A-Z]\d)/;
 //         var courseCodeMatch = fullText.match(courseCodePattern);
 //         if (courseCodeMatch) {
 //             var courseCode = courseCodeMatch[0];
