@@ -2,7 +2,8 @@
     "manifest_version": 3,
     "name": "Course Code Extension",
     "version": "1.0",
-    "permissions": ["storage", "activeTab", "<all_urls>", "scripting"],
+    "permissions": ["storage", "activeTab", "scripting"],
+    "host_permissions": ["<all_urls>"],
     "background": {
         "service_worker": "background.js"
     },
