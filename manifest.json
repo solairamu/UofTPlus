@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "UofT Improved",
+    "version": "1.0",
+    "permissions": [
+        "https://uoftcourses.web.app",
+        "tabs",
+        "activeTab"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": [
+        "https://artsci.calendar.utoronto.ca/course/",
+        "https://utm.calendar.utoronto.ca/course/",
+        "https://utsc.calendar.utoronto.ca/course/"],
+        "js": ["content.js"]
+      }
+    ],
+    "action": {
+      "default_popup": "popup.html"
+    }
+  }
+  
