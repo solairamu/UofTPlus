@@ -1,26 +1,22 @@
 {
-    "manifest_version": 3,
-    "name": "UofT Improved",
-    "version": "1.0",
-    "permissions": [
-        "https://uoftcourses.web.app",
-        "tabs",
-        "activeTab"
-    ],
-    "background": {
-      "service_worker": "background.js"
-    },
-    "content_scripts": [
-      {
+"manifest_version": 3,
+"name": "Course Code Extension",
+"version": "1.0",
+"permissions": ["storage", "activeTab", "<all_urls>", "scripting"],
+"background": {
+    "service_worker": "background.js"
+},
+"content_scripts": [
+    {
         "matches": [
-        "https://artsci.calendar.utoronto.ca/course/",
-        "https://utm.calendar.utoronto.ca/course/",
-        "https://utsc.calendar.utoronto.ca/course/"],
-        "js": ["content.js"]
-      }
-    ],
-    "action": {
-      "default_popup": "popup.html"
-    }
-  }
-  
+            "https://artsci.calendar.utoronto.ca/course/",
+            "https://utm.calendar.utoronto.ca/course/",
+            "https://utsc.calendar.utoronto.ca/course/"],
+        "js": ["contentSite1.js"]
+    },
+        {
+        "matches": ["https://uoftcourses.web.app"],
+        "js": ["contentSite2.js"]
+        }
+]
+}
