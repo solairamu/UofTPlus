@@ -1,10 +1,10 @@
 // contentSite2.js
 
 // This script requests the course code from the background script and types it into the search bar
-function typeCourseCode(courseCode) {
+function typeCourseCode(courseCode1) {
     const inputBox = document.getElementById('searchBar');
     if (inputBox) {
-        inputBox.value = courseCode;
+        inputBox.value = courseCode1;
         inputBox.dispatchEvent(new Event('input', { bubbles: true }));
         // Add any additional actions needed to submit the search
     } else {

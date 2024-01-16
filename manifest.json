@@ -14,7 +14,8 @@
                 "https://utm.calendar.utoronto.ca/course/*",
                 "https://utsc.calendar.utoronto.ca/course/*"
             ],
-            "js": ["contentSite1.js"]
+            "js": ["contentSite1.js"],
+            "run_at": "document_end"
         },
         {
             "matches": ["https://uoftcourses.web.app/*"],
