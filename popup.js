@@ -5,7 +5,7 @@ function updatePopupContent() {
 
         if (response && response.data && response.data.length > 0) {
             response.data.forEach(info => {
-                contentDiv.innerHTML += `Code: ${info.Code}, Semester: ${info.Semester}, Average: ${info.Average}<br>`;
+                contentDiv.innerHTML += `Course: ${info.Code}, Semester: ${info.Semester}, Average: ${info.Average}<br>`;
             });
         } else {
             contentDiv.innerHTML = 'No data available';
