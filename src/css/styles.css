@@ -1,6 +1,6 @@
 @font-face {
     font-family: "TradeGothicBlack";
-    src: url(TradeGothicBold.ttf);
+    src: url(/src/assets/fonts/TradeGothicBold.ttf);
 }
 
 body {

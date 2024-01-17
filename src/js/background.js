@@ -15,7 +15,7 @@ fetch(chrome.runtime.getURL('courses.json'))
         if (changeInfo.status === 'complete' && tab.url && tab.url.includes("utoronto.ca")) {
             chrome.scripting.executeScript({
                 target: { tabId: tabId },
-                files: ['contentSite1.js']
+                files: ['src/js/contentSite1.js']
             });
         }
     });

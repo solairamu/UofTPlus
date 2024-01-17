@@ -5,10 +5,10 @@
     "permissions": ["storage", "activeTab", "tabs", "scripting"],
     "host_permissions": ["<all_urls>"],
     "background": {
-        "service_worker": "background.js"
+        "service_worker": "src/js/background.js"
     },
     "action" : {
-        "default_popup": "popup.html"
+        "default_popup": "src/popup.html"
     },
     "content_scripts": [
         {
@@ -17,12 +17,12 @@
                 "https://utm.calendar.utoronto.ca/course/*",
                 "https://utsc.calendar.utoronto.ca/course/*"
             ],
-            "js": ["contentSite1.js"],
+            "js": ["src/js/contentSite1.js"],
             "run_at": "document_end"
         },
         {
             "matches": ["https://uoftcourses.web.app/*"],
-            "js": ["contentSite2.js"]
+            "js": ["src/js/contentSite2.js"]
         }
     ]
 }
