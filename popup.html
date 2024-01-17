@@ -3,17 +3,37 @@
 <head>
     <title>Course Info</title>
     <style>
-        /* Add any styling you want here */
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Arial', sans-serif;
+            background-color: #1E3765;
             margin: 0;
-            padding: 10px;
-            width: 300px;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        #courseInfo {
+            background-color: #1E3765;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            width: 400px;
+            color: white;
+        }
+
+        #logo {
+            max-width: 100%; /* Set the maximum width for your logo */
+            margin-bottom: 0;
         }
     </style>
 </head>
 <body>
-    <div id="courseInfo">Loading...</div>
+    <div id="courseInfo">
+        <img id="logo" src="logo.png" alt="Logo">
+    </div>
     <script src="popup.js"></script>
 </body>
 </html>
