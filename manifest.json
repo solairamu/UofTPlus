@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Course Code Extension",
+    "name": "UofT Improved",
     "version": "1.0",
     "permissions": ["storage", "activeTab", "tabs", "scripting"],
     "host_permissions": ["<all_urls>"],
