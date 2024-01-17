@@ -1,0 +1,40 @@
+@font-face {
+    font-family: "TradeGothicBlack";
+    src: url(TradeGothicBold.ttf);
+}
+
+body {
+    font-family: "TradeGothicBlack";
+    background-color: #1E3765;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#h1 {
+    font-family: "TradeGothicBlack";
+}
+
+#title {
+    color: #FFFFFF;
+    margin-bottom: 16px; /* Adjust as needed */
+}
+
+#courseInfo {
+    background-color: #1E3765;
+    padding: 20px;
+    border-radius: 8px; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    width: 400px;
+    color: white;
+}
+
+#logo {
+    max-width: 25%;
+    max-height: 25%;
+    margin-bottom: 10px;
+}
