@@ -1,0 +1,5257 @@
+[
+ {
+   "Code": "CSCA48",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "MATA22",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "MATA31",
+   "Semester": "Fall 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "CSCA08",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MATA37",
+   "Semester": "Winter 2023",
+   "Average": "C-"
+ },
+ {
+   "Code": "CSCA67",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIOA01",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "CHMA10",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MATA29",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PHYA11",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSYA01",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIOA02",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CHMA11",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CLAA06",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "LINB18",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PSYA02",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "BIOB10",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "BIOB34",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "BIOB50",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PSYB07",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "PSYB10",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "ANTA02",
+   "Semester": "Winter 2023",
+   "Average": "TBA"
+ },
+ {
+   "Code": "BIOB11",
+   "Semester": "Winter 2023",
+   "Average": "TBA"
+ },
+ {
+   "Code": "BIOB38",
+   "Semester": "Winter 2023",
+   "Average": "TBA"
+ },
+ {
+   "Code": "BIOB51",
+   "Semester": "Winter 2023",
+   "Average": "TBA"
+ },
+ {
+   "Code": "PSYB51",
+   "Semester": "Winter 2023",
+   "Average": "C"
+ },
+ {
+   "Code": "MATAB24",
+   "Semester": "Winter 2024",
+   "Average": "C+"
+ },
+ {
+   "Code": "STAC58",
+   "Semester": "Winter 2023",
+   "Average": "D+"
+ },
+ {
+   "Code": "CSCC11",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "HLTB16",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "HLTB11",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "HLTB22",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "HLTB44",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "STAB27",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "HLTC27",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "ESTB03",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "STAB22",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "HLTA03",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHLA11",
+   "Semester": "Winter 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "MATA30",
+   "Semester": "Fall 2020",
+   "Average": "C"
+ },
+ {
+   "Code": "MGAB01",
+   "Semester": "Fall 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "POLA01",
+   "Semester": "Fall 2018",
+   "Average": "C+"
+ },
+ {
+   "Code": "MGEA02",
+   "Semester": "Fall 2020",
+   "Average": "C+"
+ },
+ {
+   "Code": "MGMA01",
+   "Semester": "Fall 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "GGRA03",
+   "Semester": "Fall 2018",
+   "Average": "C+"
+ },
+ {
+   "Code": "MGTA05",
+   "Semester": "Fall 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "SOCA03",
+   "Semester": "Winter 2019",
+   "Average": "C+"
+ },
+ {
+   "Code": "MATA22",
+   "Semester": "Winter 2021",
+   "Average": "C"
+ },
+ {
+   "Code": "MATA36",
+   "Semester": "Winter 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "EESA10",
+   "Semester": "Winter 2019",
+   "Average": "C+"
+ },
+ {
+   "Code": "MGAB02",
+   "Semester": "Winter 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MGEA06",
+   "Semester": "Winter 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "GASA01",
+   "Semester": "Winter 2019",
+   "Average": "B-"
+ },
+ {
+   "Code": "MGTA36",
+   "Semester": "Winter 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MATB41",
+   "Semester": "Summer 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "POLA02",
+   "Semester": "Winter 2019",
+   "Average": "C+"
+ },
+ {
+   "Code": "MGEB02",
+   "Semester": "Summer 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "VPMA93",
+   "Semester": "Fall 2019",
+   "Average": "B"
+ },
+ {
+   "Code": "MGMB01",
+   "Semester": "Summer 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MATB24",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MATB44",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MGHB02",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "GGRA30",
+   "Semester": "Winter 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "PSYA01",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "STAB52",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "IDSA01",
+   "Semester": "Summer 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "ANTA01",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSCA08",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "MGAB03",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MGFB10",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "POLB50",
+   "Semester": "Summer 2020",
+   "Average": "C+"
+ },
+ {
+   "Code": "MGEC71",
+   "Semester": "Summer 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "LINA01",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MGSC03",
+   "Semester": "Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "MGSC14",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSCA48",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "MGEB11",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "MGEC02",
+   "Semester": "Winter 2023",
+   "Average": "C"
+ },
+ {
+   "Code": "GGRB21",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MGEC08",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "MGFC10",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "CSCA67",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MATA36",
+   "Semester": "Winter 2023",
+   "Average": "D"
+ },
+ {
+   "Code": "CSCA20",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CITA01H3",
+   "Semester": "Fall 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "HLTA02H3",
+   "Semester": "Fall 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "MGEA01H3",
+   "Semester": "Fall 2020",
+   "Average": "C+"
+ },
+ {
+   "Code": "MGTA01H3",
+   "Semester": "Fall 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSYA01H3",
+   "Semester": "Fall 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "CLAA06",
+   "Semester": "Winter 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "CSC108",
+   "Semester": "Fall 2019",
+   "Average": "C"
+ },
+ {
+   "Code": "GGR111",
+   "Semester": "Fall 2019",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT102",
+   "Semester": "Fall 2019",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT135",
+   "Semester": "Fall 2019",
+   "Average": "C+"
+ },
+ {
+   "Code": "RLG101",
+   "Semester": "Fall 2019",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC148",
+   "Semester": "Winter 2020",
+   "Average": "C"
+ },
+ {
+   "Code": "LIN101",
+   "Semester": "Winter 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT136",
+   "Semester": "Winter 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT223",
+   "Semester": "Winter 2020",
+   "Average": "C+"
+ },
+ {
+   "Code": "STA107",
+   "Semester": "Winter 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT232",
+   "Semester": "Summer 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "STA256",
+   "Semester": "Summer 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC148",
+   "Semester": "Fall 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC207",
+   "Semester": "Fall 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC236",
+   "Semester": "Fall 2020",
+   "Average": "C+"
+ },
+ {
+   "Code": "CSC209",
+   "Semester": "Winter 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "CSC258",
+   "Semester": "Winter 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC263",
+   "Semester": "Winter 2021",
+   "Average": "C"
+ },
+ {
+   "Code": "CSC363",
+   "Semester": "Winter 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "STA258",
+   "Semester": "Winter 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "POL112",
+   "Semester": "Summer 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC324",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC347",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC369",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC373",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC301",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC309",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC343",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC358",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC384",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "SOC100",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "CSC108",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "EDS100",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "ISP100",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT102",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT132",
+   "Semester": "Fall 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "ANT102",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT135",
+   "Semester": "Fall 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "POL112",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT224",
+   "Semester": "Fall 2022",
+   "Average": "D+"
+ },
+ {
+   "Code": "SOC100",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "POL113",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA215",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "ERS201",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "ENV330",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "ENV495",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "BIO318Y",
+   "Semester": "Fall 2022 - Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "BIO380",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "ENV332",
+   "Semester": "Winter 2023",
+   "Average": "A"
+ },
+ {
+   "Code": "MAT224",
+   "Semester": "Winter 2023",
+   "Average": "C-"
+ },
+ {
+   "Code": "MAT157Y",
+   "Semester": "Fall 2022 - Winter 2023",
+   "Average": "D+"
+ },
+ {
+   "Code": "STA258",
+   "Semester": "Winter 2023",
+   "Average": "C-"
+ },
+ {
+   "Code": "CSC148",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT102",
+   "Semester": "Winter 2023",
+   "Average": "C-"
+ },
+ {
+   "Code": "MAT137Y",
+   "Semester": "Fall 2022 - Winter 2023",
+   "Average": "C"
+ },
+ {
+   "Code": "FSC239",
+   "Semester": "Fall 2022 - Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "ANT101",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIO153",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "ENV100",
+   "Semester": "Fall 2022 - Winter 2023",
+   "Average": "C"
+ },
+ {
+   "Code": "ANT102",
+   "Semester": "Fall 2019",
+   "Average": "C"
+ },
+ {
+   "Code": "CHM110",
+   "Semester": "Fall 2019",
+   "Average": "C-"
+ },
+ {
+   "Code": "MAT132",
+   "Semester": "Fall 2019",
+   "Average": "C"
+ },
+ {
+   "Code": "CHM120",
+   "Semester": "Winter 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC108",
+   "Semester": "Winter 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT102",
+   "Semester": "Summer 2020",
+   "Average": "C"
+ },
+ {
+   "Code": "MAT132",
+   "Semester": "Summer 2020",
+   "Average": "C"
+ },
+ {
+   "Code": "MAT134",
+   "Semester": "Summer 2020",
+   "Average": "C+"
+ },
+ {
+   "Code": "CHM242",
+   "Semester": "Fall 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT223",
+   "Semester": "Fall 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT102",
+   "Semester": "Winter 2021",
+   "Average": "C"
+ },
+ {
+   "Code": "MAT232",
+   "Semester": "Winter 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "SOC100",
+   "Semester": "Winter 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIO206",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC207",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC236",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "STA215",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIO202",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "BIO207",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC209",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "MAT322",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "BIO360",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "BIO362",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "BIO342",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIO361",
+   "Semester": "Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "BIO427",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT223",
+   "Semester": "Winter 2023",
+   "Average": "C"
+ },
+ {
+   "Code": "MAT136",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIO152",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "CHM110",
+   "Semester": "Fall 2021",
+   "Average": "C"
+ },
+ {
+   "Code": "FSL405",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT132",
+   "Semester": "Fall 2021",
+   "Average": "C"
+ },
+ {
+   "Code": "PSY100",
+   "Semester": "Fall 2021/Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "BIO153",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "CHM120",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "FSL406",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "MAT134",
+   "Semester": "Winter 2022",
+   "Average": "C-"
+ },
+ {
+   "Code": "STA215",
+   "Semester": "Summer 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIO202",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "BIO203",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIO205",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIO206",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "FRE227",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "ANT215",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "BIO207",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "BIO314",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "CHM242",
+   "Semester": "Winter 2023",
+   "Average": "C"
+ },
+ {
+   "Code": "FRE382",
+   "Semester": "Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "ITA100",
+   "Semester": "Fall 2022 - Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "ISP100",
+   "Semester": "Winter2023",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO101",
+   "Semester": "Fall2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "GGR112",
+   "Semester": "Fall 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "FSC100",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "LIN102",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "CLA204",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "POL115",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "CHM243",
+   "Semester": "Winter 2023",
+   "Average": "C-"
+ },
+ {
+   "Code": "GER100",
+   "Semester": "Fall 2021 - Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "POL209",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "CHM311",
+   "Semester": "Winter 2023",
+   "Average": "C"
+ },
+ {
+   "Code": "JCP221",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "BIO259",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "POL215",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "SOC202",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "CHM211",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "POL210",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "CCT109",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "POL216",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "SOC109",
+   "Semester": "Winter 2023",
+   "Average": "C"
+ },
+ {
+   "Code": "CCT110",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "SOC275",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "ENG105",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "LIN204",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "ENG110",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY100",
+   "Semester": "Fall 2022 - Winter 2023",
+   "Average": "C-"
+ },
+ {
+   "Code": "PHL245",
+   "Semester": "Winter 2023",
+   "Average": "*"
+ },
+ {
+   "Code": "CSB329",
+   "Semester": "Summer 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "ITA233",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CLA201",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "ENG102",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "RLG107",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO101",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MUN101",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "RSM100",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA237",
+   "Semester": "Fall 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "CSC110",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "STA130",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "AST101",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "CHM135",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "BIO120",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT135",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHL245",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT223",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "APM346",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "HPS203",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PHY407",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "PHL273",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "ENV100",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC111",
+   "Semester": "Winter 2023",
+   "Average": "A-"
+ },
+ {
+   "Code": "MAT137",
+   "Semester": "Winter 2023",
+   "Average": "C"
+ },
+ {
+   "Code": "MAT223",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY100",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT224",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT235",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIO220",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "BIO260",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "CHM136",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "NFS284",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO102",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "PSY493",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "CAR315",
+   "Semester": "Winter 2023",
+   "Average": "A- "
+ },
+ {
+   "Code": "HIS250",
+   "Semester": "Fall/Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "HIS328",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "HIS331",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC207",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC236",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC300",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC209",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC258",
+   "Semester": "Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC263",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "ENT200",
+   "Semester": "Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "TRN151",
+   "Semester": "Fall 2022 - Winter 2023",
+   "Average": "A-"
+ },
+ {
+   "Code": "POL109",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "TRN152",
+   "Semester": "Fall 2022 - Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "GER400",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "JSC270",
+   "Semester": "WInter 2023",
+   "Average": "A-"
+ },
+ {
+   "Code": "HIS103",
+   "Semester": "Fall2022/Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "APS110",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "APS111",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CIV100",
+   "Semester": "Fall 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "MAT186",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT188",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "APS105",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "APS112",
+   "Semester": "Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "ECE110",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT187",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "MIE100",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "LIN101",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "LIN101",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "ENG140",
+   "Semester": "Fall 2022 - Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "PSY100",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "HPS100",
+   "Semester": "Summer 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "STA261",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "JWE206",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "GER150",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "BCH210",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIO230",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "BMS100 ",
+   "Semester": "Fall 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "HMB265",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "PSL300",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "BMS201",
+   "Semester": "Winter 2023",
+   "Average": "C"
+ },
+ {
+   "Code": "HMB204",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "PSL301",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY201",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "HIS314",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "MAT390",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "HIS264",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "HIS271",
+   "Semester": "Fall 2022/Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "HIS349",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "HMB203",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "ENG150",
+   "Semester": "Fall/Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "AST251",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "FSL220",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA255",
+   "Semester": "Winter 2023",
+   "Average": "C"
+ },
+ {
+   "Code": "NFS302",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "HMB322",
+   "Semester": "Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB342",
+   "Semester": "Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "Mgy277 ",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "NFS301",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC108",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA256",
+   "Semester": "Winter 2023",
+   "Average": "C-"
+ },
+ {
+   "Code": "CSC258",
+   "Semester": "Winter 2023",
+   "Average": ""
+ },
+ {
+   "Code": "MAT136",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "CSC108",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "LIN204",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "GGR252",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "CSC148",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA130",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC207",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "ECO200",
+   "Semester": "Fall/Winter 2023",
+   "Average": ""
+ },
+ {
+   "Code": "STA257",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "IMM250",
+   "Semester": "Winter2023",
+   "Average": ""
+ },
+ {
+   "Code": "CSCA67",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "LINA01",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MGY377",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "CSB331",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSB472",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "CSB457",
+   "Semester": "Winter 2023",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSB327",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSB349",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "BCH440",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "BCH428",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "BCH448",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "HIS198",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "POL195",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "SDS255",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "VIC114",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CLA210",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "HIS108",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT198",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "NEW198",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "RLG107",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "FAH230",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "HIS243",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MST201",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "HIS222",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "HIS242",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "HIS346",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "ITA332",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "CIN105",
+   "Semester": "Fall/Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "CIV102",
+   "Semester": "Fall 2018",
+   "Average": "B-"
+ },
+ {
+   "Code": "ESC101",
+   "Semester": "Fall 2018",
+   "Average": "B"
+ },
+ {
+   "Code": "ESC103",
+   "Semester": "Fall 2018",
+   "Average": "B-"
+ },
+ {
+   "Code": "ESC180",
+   "Semester": "Fall 2018",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT194",
+   "Semester": "Fall 2018",
+   "Average": "B"
+ },
+ {
+   "Code": "PHY180",
+   "Semester": "Fall 2018",
+   "Average": "B"
+ },
+ {
+   "Code": "ECE159",
+   "Semester": "Winter 2019",
+   "Average": "B"
+ },
+ {
+   "Code": "ESC102",
+   "Semester": "Winter 2019",
+   "Average": "B+"
+ },
+ {
+   "Code": "ESC190",
+   "Semester": "Winter 2019",
+   "Average": "B+"
+ },
+ {
+   "Code": "MAT185",
+   "Semester": "Winter 2019",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT195",
+   "Semester": "Winter 2019",
+   "Average": "B-"
+ },
+ {
+   "Code": "MSE160",
+   "Semester": "Winter 2019",
+   "Average": "B+"
+ },
+ {
+   "Code": "APS444",
+   "Semester": "Summer 2019",
+   "Average": "B+"
+ },
+ {
+   "Code": "SOC100",
+   "Semester": "Summer 2019",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECE212",
+   "Semester": "Fall 2019",
+   "Average": "B-"
+ },
+ {
+   "Code": "ECE241",
+   "Semester": "Fall 2019",
+   "Average": "B-"
+ },
+ {
+   "Code": "ECE244",
+   "Semester": "Fall 2019",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT290",
+   "Semester": "Fall 2019",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT291",
+   "Semester": "Fall 2019",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECE216",
+   "Semester": "Winter 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "ECE221",
+   "Semester": "Winter 2020",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECE231",
+   "Semester": "Winter 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "ECE243",
+   "Semester": "Winter 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "ECE297",
+   "Semester": "Winter 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "CIV300",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "ECE302",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECE344",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "ECE345",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "ECE361",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "APS360",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC343",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "ECE311",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECE342",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "TEP343",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "ANT253",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CIN240",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "RSM219",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM222",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "RSM225",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "RSM270",
+   "Semester": "Fall 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM332",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO220",
+   "Semester": "Winter 2023",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECO204",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC108",
+   "Semester": "Winter 2024",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO101",
+   "Semester": "Fall 2019",
+   "Average": "C+"
+ },
+ {
+   "Code": "HPS110",
+   "Semester": "Fall 2019",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT133",
+   "Semester": "Fall 2019 - Winter 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "RSM100",
+   "Semester": "Fall 2019",
+   "Average": "B-"
+ },
+ {
+   "Code": "RSM219",
+   "Semester": "Fall 2019",
+   "Average": "B+"
+ },
+ {
+   "Code": "CLA230",
+   "Semester": "Winter 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO102",
+   "Semester": "Winter 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "RSM230",
+   "Semester": "Winter 2020",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM250",
+   "Semester": "Winter 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO220",
+   "Semester": "Summer 2020",
+   "Average": "B-"
+ },
+ {
+   "Code": "ECO204",
+   "Semester": "Fall 2020 - Winter 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "RSM220",
+   "Semester": "Fall 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT136",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "RSM222",
+   "Semester": "Fall 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT135",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "CHM135",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "BIO120",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "BIO130",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "TRN135",
+   "Semester": "Fall 2021/ Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "TRN136",
+   "Semester": "Fall 2021/ Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "RSM225",
+   "Semester": "Fall 2020",
+   "Average": "B"
+ },
+ {
+   "Code": "RSM221",
+   "Semester": "Winter 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CHM136",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "HMB265",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "BCH210",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "PSL300",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "HMB203",
+   "Semester": "Winter 2023",
+   "Average": "B"
+ },
+ {
+   "Code": "PSY100",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIO230",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "RSM260",
+   "Semester": "Winter 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "BIO220",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "IMM250",
+   "Semester": "Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "PHL281",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSL301",
+   "Semester": "Winter 2023",
+   "Average": "B-"
+ },
+ {
+   "Code": "SDS279",
+   "Semester": "Winter 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "AST101",
+   "Semester": "Summer 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "AST201",
+   "Semester": "Summer 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "ECO320",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "NFS284",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM320",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM324",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM332",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM270",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM321",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "RSM323",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM333",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "NMC101",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PCL200",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "RSM326",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM392",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM420",
+   "Semester": "Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM422",
+   "Semester": "Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM424",
+   "Semester": "Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM426",
+   "Semester": "Winter 2023",
+   "Average": "B+"
+ },
+ {
+   "Code": "CHMA10",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "HLTA02",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MATA29",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "BIOA01",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHYA11",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHYD37",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSCD18",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "PHYC54",
+   "Semester": "Fall 2021",
+   "Average": "D+"
+ },
+ {
+   "Code": "CHM211",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CHM231",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "CHM242",
+   "Semester": "Fall 2021",
+   "Average": "C"
+ },
+ {
+   "Code": "CSC108",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "RLG204",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "STA220",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "STA215",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIO203",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "BIO205",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "BIO206",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA256",
+   "Semester": "Fall 2021",
+   "Average": "C-"
+ },
+ {
+   "Code": "BIO374",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "ACT230",
+   "Semester": "Fall 2021",
+   "Average": "D+"
+ },
+ {
+   "Code": "ACT240",
+   "Semester": "Fall 2021",
+   "Average": "C"
+ },
+ {
+   "Code": "ACT348",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "ACT349",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "ACT350",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "APS110",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "APS111",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "AST101",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "AST221",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "BCH210",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "BCH428",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "BIO120",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "BIO230",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "BPM335",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "CHM135",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CHM220",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "CHM327",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "CHM410",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CIV100",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "CLA160",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CLA204",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSB328",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSB349",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSC108",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC207",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSC236",
+   "Semester": "Fall 2021",
+   "Average": "A+"
+ },
+ {
+   "Code": "CSC263",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "CSC300",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSE240",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "DHU235",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO101",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECO358",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "ENG289",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "ENT200",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "ENV100",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "ENV221",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "ENV440",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "FAH199",
+   "Semester": "Fall 2021",
+   "Average": "A"
+ },
+ {
+   "Code": "FAH231",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "FAH245",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "FAH246",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "FAH272",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "FAH354",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "HIS264",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "HIS369",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB265",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "HMB301",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB302",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB303",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB430",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB450",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HPS110",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HPS300",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "HPS322",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "HST209",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "HST440",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "IMM250",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "IMM340",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "IMM429",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "IMM435",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "JFP450",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "JLP374",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "JNH350",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "LIN101",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT135",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT138",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT186",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT188",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT223",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT231",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "MAT240",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT244",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT334",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT337",
+   "Semester": "Fall 2021",
+   "Average": "C-"
+ },
+ {
+   "Code": "MAT354",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MGY277",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "MGY340",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "MIE236",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "MIE242",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MIE250",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "MIE256",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "NEW103",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "NFS284",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "NFS387",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "PCL302",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PCL362",
+   "Semester": "Fall 2021",
+   "Average": "C"
+ },
+ {
+   "Code": "PCL470",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PHL233",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "PHL245",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHL342",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PHY131",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHY151",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHY224",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "POL101",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "POL107",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PSL300",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PSL372",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PSY100",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY201",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY210",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "PSY240",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY280",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "PSY311",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY322",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PSY370",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "RLG303",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "RLG318",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM100",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "RSM219",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "RSM220",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "RSM222",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "RSM250",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "SOC100",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "SOC265",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA130",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "STA220",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "STA237",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "STA247",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "STA302",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "WDW196",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "WGS373",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "ACT230",
+   "Semester": "Fall 2021",
+   "Average": "D+"
+ },
+ {
+   "Code": "ACT240",
+   "Semester": "Fall 2021",
+   "Average": "C"
+ },
+ {
+   "Code": "ACT348",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "ACT349",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "ACT350",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "APM462",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "APS110",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "APS111",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "AST101",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "AST221",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "BCH210",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "BCH428",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "BIO120",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "BIO207",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "BIOA02",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC301",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC309",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC343",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC358",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSCA08",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "CSCC11",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSCD03",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "CHM242",
+   "Semester": "Winter 2022",
+   "Average": "D"
+ },
+ {
+   "Code": "CHM243",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "CHM311",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CHM333",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CHMA11",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "JCP221",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "LIN205",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "MAT157",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT202",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "MAT244",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MATA22",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "MATA35",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "MATA37",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "MGEA06",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "PHYA22",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "PSYA02",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSCC37",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSCC46",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSCD03",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSCD18",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PSYB32",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "BIO230",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "BPM335",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "CHM135",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CHM220",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "CHM327",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "CHM410",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CIV100",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "CLA160",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CLA204",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSB328",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSB349",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSC108",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC196",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC207",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSC236",
+   "Semester": "Fall 2021",
+   "Average": "A+"
+ },
+ {
+   "Code": "CSC263",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "CSC300",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSE240",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "DHU235",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO101",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECO358",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "ENG289",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "ENT200",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "ENV100",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "ENV221",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "ENV440",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "FAH199",
+   "Semester": "Fall 2021",
+   "Average": "A"
+ },
+ {
+   "Code": "FAH231",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "FAH245",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "FAH246",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "FAH272",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "FAH354",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "GGR107",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "GGR251",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "HIS230",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HIS264",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "HIS369",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB265",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "HMB301",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB302",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB303",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB430",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB450",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HPS100",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "HPS110",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "HPS300",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "HPS322",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "HST209",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "HST440",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "IMM250",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "IMM340",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "IMM429",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "IMM435",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "JFP450",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "JLP374",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "JNH350",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "LIN101",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT135",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT138",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT186",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT188",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT223",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT224",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "MAT231",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "MAT240",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT244",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT246",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT301",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT334",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT337",
+   "Semester": "Fall 2021",
+   "Average": "C-"
+ },
+ {
+   "Code": "MAT354",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT457",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "MCS223",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MGY277",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "MGY340",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "MIE236",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "MIE242",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "MIE250",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "MIE256",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "MST210",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "NEW103",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "NFS284",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "NFS387",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "PCL302",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PCL362",
+   "Semester": "Fall 2021",
+   "Average": "C"
+ },
+ {
+   "Code": "PCL470",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PHL233",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "PHL245",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHL342",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PHY131",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHY151",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHY224",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "POL101",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "POL107",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PSL300",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PSL372",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PSY100",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY201",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY210",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "PSY240",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY280",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "PSY311",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY322",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "PSY370",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "RLG303",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "RLG318",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM100",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "RSM219",
+   "Semester": "Fall 2021",
+   "Average": "A-"
+ },
+ {
+   "Code": "RSM220",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "RSM222",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "RSM250",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "SOC100",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "SOC265",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA130",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "STA220",
+   "Semester": "Fall 2021",
+   "Average": "C+"
+ },
+ {
+   "Code": "STA237",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "STA247",
+   "Semester": "Fall 2021",
+   "Average": "B"
+ },
+ {
+   "Code": "STA302",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA347",
+   "Semester": "Fall 2021",
+   "Average": "B-"
+ },
+ {
+   "Code": "WDW196",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "WGS373",
+   "Semester": "Fall 2021",
+   "Average": "B+"
+ },
+ {
+   "Code": "ACT370",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "ANA300",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "ANA301",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "ANT100",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "APM346",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "APM462",
+   "Semester": "Winter 2022",
+   "Average": "C-"
+ },
+ {
+   "Code": "APM466",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "AST201",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "BCH311",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "BCH340",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "BCH370",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "BIO130",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "BIO220",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "BIO251",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "BMS100",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "CHM136",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CHM151",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CHM247",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CJH332",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CLA201",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "CLA204",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CLA210",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "COG250",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CRI210",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CRI385",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC111",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSC148",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC165",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC209",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC240",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC258",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC263",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "CSC303",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC317",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSC318",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC324",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC343",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC369",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC373",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC385",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSC401",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC404",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSC412",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC413",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSC488",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "ECE316",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "ECE462",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "ECE470",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "ECE496",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "ECO101",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "ECO102",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECO105",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECO204",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECO209",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "ECO220",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECO322",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECO349",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO359",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO375",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "ECO475",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "ENT200",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "FAH381",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "FOR201",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "GGR124",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "GGR246",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "GGR252",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "GGR274",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "HIS102",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "HIS346",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "HIS357",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "HMB200",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "HMB320",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "HPS100",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "HPS240",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "IMM250",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "JEG100",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "JSH300",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "LIN102",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "LIN192",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "LMP200",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "MAT133",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT136",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT137",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT157",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT198",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "MAT223",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT224",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "MAT235",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT237",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT244",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT246",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT247",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "MAT257",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT267",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT301",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT315",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT334",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT344",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT351",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "MAT367",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "MAT448",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "MAT458",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "MAT477",
+   "Semester": "Winter 2022",
+   "Average": "A"
+ },
+ {
+   "Code": "MCS224",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "MCS225",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "MGT100",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "NEW116",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "PCL102",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "PHL101",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHL210",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "PHL245",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "PHL356",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PHY131",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PHY132",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PHY152",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "PHY365",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "POL106",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "POL218",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "POL224",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "POL337",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "POL378",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "POL379",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PSL301",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PSL350",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PSY100",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY201",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY210",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PSY270",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "RSM230",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "RSM250",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM260",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM323",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM326",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "SOC100",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "SOC201",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "SOC204",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "SOC212",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "SOC251",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "SPA100",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA130",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA238",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "STA261",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA288",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "STA302",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "STA303",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "STA304",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "STA305",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "STA355",
+   "Semester": "Winter 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA365",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "STA410",
+   "Semester": "Winter 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "STA437",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "STA447",
+   "Semester": "Winter 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "STA457",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "VIC198",
+   "Semester": "Winter 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "WGS380",
+   "Semester": "Winter 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "WRR103",
+   "Semester": "Winter 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "ACT240",
+   "Semester": "Fall 2022",
+   "Average": "C-"
+ },
+ {
+   "Code": "ACT451",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "ACT460",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "APS110",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "APS111",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "AST101",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "BCH210",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "BIO120",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "BIO230",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CAS310",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "CAS350",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CHM135",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CHM220",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CIV100",
+   "Semester": "Fall 2022",
+   "Average": "C-"
+ },
+ {
+   "Code": "CSB340",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSB349",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSB350",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSB460",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC108",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC110",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC207",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC236",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC258",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "CSC304",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "CSC336",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC343",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC410",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC458",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "CSC463",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "CSC485",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "EAS103",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "ECO101",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "ECO316",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO320",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "ECO333",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "ECO364",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO367",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "ECO372",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "ECO374",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "ECO421",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "ECO464",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "EEB362",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "ESS205",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "ETH201",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "FAH101",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "FOR303",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "FSL100",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "GGR124",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "GGR198",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "GGR221",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "GGR272",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "HIS319",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "HIS370",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB265",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "HMB302",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB311",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "HMB360",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "HMB402",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB422",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "HMB434",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "HMB450",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "HPS120",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "IMM250",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "IMM340",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "MAT135",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT186",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT188",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT223",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "MAT224",
+   "Semester": "Fall 2022",
+   "Average": "C-"
+ },
+ {
+   "Code": "MAT240",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT244",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT246",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT301",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT332",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT337",
+   "Semester": "Fall 2022",
+   "Average": "C-"
+ },
+ {
+   "Code": "MAT344",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MAT354",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MAT409",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "MCS326",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "MGT100",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MGY277",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "MGY377",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "MUS303",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "NFS284",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "NFS386",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PCL470",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PHL232",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHL244",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHL245",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHL265",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHL275",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHL342",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PHL345",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PHY131",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "PHY151",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "POL101",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "POL106",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "POL214",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "POL218",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "POL222",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "POL328",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "POL340",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "POL354",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "POL356",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSL300",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "PSY100",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "PSY230",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY260",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY270",
+   "Semester": "Fall 2022",
+   "Average": "C+"
+ },
+ {
+   "Code": "PSY328",
+   "Semester": "Fall 2022",
+   "Average": "C-"
+ },
+ {
+   "Code": "PSY362",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "PSY379",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "PSY390",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "RLG307",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "RSM100",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "RSM219",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM250",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM320",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM392",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "RSM422",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ },
+ {
+   "Code": "SOC100",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "SOC202",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "SOC204",
+   "Semester": "Fall 2022",
+   "Average": "B"
+ },
+ {
+   "Code": "STA130",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA197",
+   "Semester": "Fall 2022",
+   "Average": "A-"
+ },
+ {
+   "Code": "STA220",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA237",
+   "Semester": "Fall 2022",
+   "Average": "C"
+ },
+ {
+   "Code": "STA247",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA257",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA302",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA304",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "STA314",
+   "Semester": "Fall 2022",
+   "Average": "B-"
+ },
+ {
+   "Code": "VIC121",
+   "Semester": "Fall 2022",
+   "Average": "B+"
+ }
+]
