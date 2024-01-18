@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "UofT Improved",
+    "name": "UofT+",
     "version": "1.0",
     "permissions": ["storage", "activeTab", "tabs", "scripting"],
     "host_permissions": ["<all_urls>"],
