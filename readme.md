@@ -1,5 +1,9 @@
 # UofT +
 
+https://github.com/solairamu/UofTPlus/assets/132320148/4f3c025d-715b-49a8-a53d-ad573b170018
+
+https://github.com/solairamu/UofTPlus/assets/132320148/b25ed343-f06a-4941-ba5b-480be6ea51b3
+
 ## Description
 
 UofT + is a Chrome extension designed to enhance the experience of students at the University of Toronto. It provides immediate access to past course averages from previous semesters, aiding students in making informed decisions about their course selections.
