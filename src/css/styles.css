@@ -1,10 +1,11 @@
-@font-face {
+/* @font-face {
     font-family: "TradeGothicBlack";
     src: url(/src/assets/fonts/TradeGothicBold.ttf);
-}
+} */
 
 body {
-    font-family: "TradeGothicBlack";
+    /* font-family: "TradeGothicBlack"; */
+    font-family: 'Courier New', Courier, monospace;
     background-color: #1E3765;
     margin: 0;
     padding: 0;
@@ -15,7 +16,8 @@ body {
 }
 
 #h1 {
-    font-family: "TradeGothicBlack";
+    /* font-family: "TradeGothicBlack"; */
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #title {
@@ -37,4 +39,21 @@ body {
     max-width: 25%;
     max-height: 25%;
     margin-bottom: 10px;
+}
+
+#programSelect {
+    width: 100%; /* Ensures the select element does not exceed the width of its container */
+    box-sizing: border-box; /* Includes padding and border in the element's total width and height */
+    margin: 0; /* Removes any default margin */
+    padding: 4px; /* Adds some padding inside the select box for better readability */
+    overflow: hidden; /* Prevents the content from overflowing */
+    border: 1px solid #ccc; /* Optional: adds a border for better visibility */
+    border-radius: 4px; /* Optional: rounds the corners of the select box */
+}
+
+/* Style for the options within the dropdown */
+#programSelect option {
+    overflow: hidden; /* Ensures the text in each option does not overflow */
+    white-space: nowrap; /* Prevents the text from wrapping */
+    text-overflow: ellipsis; /* Adds an ellipsis if the text is too long */
 }

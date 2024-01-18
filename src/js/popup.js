@@ -1,29 +1,48 @@
 function updatePopupContent() {
     chrome.runtime.sendMessage({ action: "fetchCurrentCourseInfo" }, function(response) {
         const courseInfoDiv = document.getElementById('courseInfo');
-        courseInfoDiv.innerHTML = ''; // Clear existing content
-        const contentDiv = document.createElement('div'); // Create a new div for the content
+        const courseContentDiv = document.createElement('div'); // Create a new div for the course content
+        const programSelectDiv = document.createElement('div'); // Create a new div for the program dropdown
 
-        if (response && response.courseInfo && response.courseInfo.length > 0) {
-            response.courseInfo.forEach(info => {
-                contentDiv.innerHTML += `Course: ${info.Code}, Semester: ${info.Semester}, Average: ${info.Average}<br>`;
+        if (response && response.data && response.data.length > 0) {
+            const courseInfo = response.data[0];
+            courseContentDiv.innerHTML = `Course: ${courseInfo.Code}, Semester: ${courseInfo.Semester}, Average: ${courseInfo.Average}<br>`;
+            courseInfoDiv.appendChild(courseContentDiv);
+            
+            // Create dropdown for program information
+            const programSelect = document.createElement('select');
+            programSelect.id = 'programSelect';
+            programSelect.innerHTML = `<option value="">View Applicable Programs</option>`;
+            programSelect.onchange = function() {
+                alert(`You selected: ${this.value}`);
+            };
+
+            // Fetch and populate program information
+            chrome.runtime.sendMessage({ action: "fetchProgramsForCourse", data: courseInfo.Code }, function(progResponse) {
+                if (progResponse && progResponse.data && progResponse.data.length > 0) {
+                    progResponse.data.forEach(program => {
+                        const option = document.createElement('option');
+                        option.value = program;
+                        option.textContent = program;
+                        programSelect.appendChild(option);
+                    });
+                } else {
+                    const option = document.createElement('option');
+                    option.value = "";
+                    option.textContent = 'No programs available for this course';
+                    programSelect.appendChild(option);
+                }
             });
 
-            // Display related programs
-            if (response.programs && response.programs.length > 0) {
-                contentDiv.innerHTML += '<br>Related Programs:<br>';
-                response.programs.forEach(program => {
-                    contentDiv.innerHTML += `${program}<br>`;
-                });
-            }
+            programSelectDiv.appendChild(programSelect);
         } else {
-            contentDiv.innerHTML = 'No data available';
+            courseContentDiv.innerHTML = 'No data available';
         }
 
-        courseInfoDiv.appendChild(contentDiv); // Append the new content div to courseInfo
+        courseInfoDiv.appendChild(courseContentDiv); // Append the course content div to courseInfo
+        courseInfoDiv.appendChild(programSelectDiv); // Append the program dropdown div to courseInfo
     });
 }
-
 
 // Fetch and update data when the popup is opened
 updatePopupContent();

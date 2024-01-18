@@ -17,15 +17,26 @@
         }
     }
 
+    function fetchPrograms(courseCode) {
+        chrome.runtime.sendMessage({ action: "fetchProgramsForCourse", data: courseCode }, function(response) {
+            console.log("Programs for Course", response);
+            // You can process the response here as needed
+            // For example, display it on the page or log it
+        });
+    }
+
     var courseCode = extractCourseCode();
     if (courseCode) {
         chrome.runtime.sendMessage({ action: "fetchCourseInfo", data: courseCode }, function(response) {
-            console.log("Response received", response); // Additional log for debugging
+            console.log("Course Info Response", response); // Additional log for debugging
             if (response && response.data && response.data.length > 0) {
                 console.log(response.data);
             } else {
                 console.log('No data found for course code:', courseCode);
             }
+
+            // Fetch and log programs for the course
+            fetchPrograms(courseCode);
         });
     } else {
         console.log('Course code extraction failed or returned null');
